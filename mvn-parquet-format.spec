@@ -4,7 +4,7 @@
 #
 Name     : mvn-parquet-format
 Version  : 2.4.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/parquet-format/archive/apache-parquet-format-2.4.0.tar.gz
 Source0  : https://github.com/apache/parquet-format/archive/apache-parquet-format-2.4.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/parquet/parquet-format/2.4.0/parquet-format-2.4.0.jar
